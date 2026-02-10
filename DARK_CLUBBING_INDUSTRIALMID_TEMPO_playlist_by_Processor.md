@@ -1,4 +1,4 @@
-<h3>\<DARK CLUBBING\> \<INDUSTRIAL\> \<MID TEMPO \> - playlist by Processor \| Spotify</h3>
+<h3>\\<DARK CLUBBING\> \<INDUSTRIAL\> \<MID TEMPO \> - playlist by Processor | Spotify</h3>
 
 https://open.spotify.com/playlist/2sgjvN28KYuXlvCoUiH2jd
 
