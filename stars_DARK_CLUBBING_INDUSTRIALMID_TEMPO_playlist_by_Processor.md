@@ -2,6 +2,16 @@
 
 https://open.spotify.com/playlist/2sgjvN28KYuXlvCoUiH2jd
 
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
+
 id | fulltitle | star | youtube_id | title
 -|-|-|-|-
 01 | Finally | ⭐ | [0uqVwckY9E0] | &nbsp;
